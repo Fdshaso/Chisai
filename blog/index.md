@@ -1,3 +1,3 @@
 # Blog
 
-I post my artist progress here!
+C'est ici que je liste mes progrès.
