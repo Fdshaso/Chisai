@@ -1,3 +1,3 @@
-# Hello!
+# Coucou!
 
-This is the home page of Chīsai, a small static site generator.
+Voici le site de Fdshaso, où l'on peut admirer des chats avec de l'argent.
